@@ -1,2 +1,2 @@
 # c-program
-Interview Topics in C
+AND operator to check the bit and also used for clear the bit 
